@@ -1,0 +1,289 @@
+[
+    {
+        "id": 1,
+        "product_name": "Girls top",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Maroon",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 2,
+        "product_name": "Girls top",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 1500,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Blue",
+        "Brand": "Westside"
+    }
+    ,
+    {
+        "id": 3,
+        "product_name": "Girls Solid Lehenga Choli",
+        "category": "Fashion",
+        "category_id": 2,
+        "Price": 1339,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    }
+    ,
+    {
+        "id": 4,
+        "product_name": "Girls Solid Lehenga Choli",
+        "category": "Fashion",
+        "category_id": 2,
+        "Price": 1939,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    }
+    ,
+    {
+        "id": 5,
+        "product_name": "Girls Tank Top",
+        "category": "Fashion",
+        "category_id": 3,
+        "Price": 709,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    }
+    ,
+    {
+        "id": 6,
+        "product_name": "Girls Tank Top",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 639,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    },
+    {
+        "id": 7,
+        "product_name": "Girls Sweater/Jumper",
+        "category": "Fashion",
+        "category_id": 4,
+        "Price": 1169,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    },
+    {
+        "id": 8,
+        "product_name": "Girls Tank Top",
+        "category": "Fashion",
+        "category_id": 4,
+        "Price": 639,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    },
+    {
+        "id": 9,
+        "product_name": "Girls T-shirt",
+        "category": "Fashion",
+        "category_id": 5,
+        "Price": 629,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    },
+    {
+        "id": 10,
+        "product_name": "Girls T-shirt",
+        "category": "Fashion",
+        "category_id": 5,
+        "Price": 789,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    }
+    ,
+    {
+        "id": 11,
+        "product_name": "Girls Cardigan",
+        "category": "Fashion",
+        "category_id": 6,
+        "Price": 1129,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    }
+    ,
+    {
+        "id": 12,
+        "product_name": " Girls Cardigan",
+        "category": "Fashion",
+        "category_id": 6,
+        "Price": 1759,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    },
+    {
+        "id": 13,
+        "product_name": " Girls Knife Pleated",
+        "category": "Fashion",
+        "category_id": 7,
+        "Price": 459,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    }
+    ,
+    {
+        "id": 14,
+        "product_name": " Girls Knife Pleated",
+        "category": "Fashion",
+        "category_id": 7,
+        "Price": 459,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    },
+    {
+        "id": 15,
+        "product_name": " Girls Knife Pleated",
+        "category": "Fashion",
+        "category_id": 7,
+        "Price": 929,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    },
+    {
+        "id": 16,
+        "product_name": " Girls Knife Pleated",
+        "category": "Fashion",
+        "category_id": 7,
+        "Price": 339,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    },
+    {
+        "id": 17,
+        "product_name": " Girls Legging",
+        "category": "Fashion",
+        "category_id": 8,
+        "Price": 749,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    }
+    ,
+    {
+        "id": 18,
+        "product_name": " Girls Legging",
+        "category": "Fashion",
+        "category_id": 8,
+        "Price": 1179,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    }
+    ,
+    {
+        "id": 19,
+        "product_name": " Girls Legging",
+        "category": "Fashion",
+        "category_id": 8,
+        "Price": 1549,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    }
+    ,
+    {
+        "id": 20,
+        "product_name": " Girls Legging",
+        "category": "Fashion",
+        "category_id": 8,
+        "Price": 1759,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    },
+    {
+        "id": 21,
+        "product_name": " Girls Slip",
+        "category": "Fashion",
+        "category_id": 9,
+        "Price": 559,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    },
+    {
+        "id": 22,
+        "product_name": " Girls Slip",
+        "category": "Fashion",
+        "category_id": 9,
+        "Price": 959,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    },
+    {
+        "id": 23,
+        "product_name": " Girls Slip",
+        "category": "Fashion",
+        "category_id": 9,
+        "Price": 1159,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    }
+    ,
+    {
+        "id": 24,
+        "product_name": " Girls Jeans",
+        "category": "Fashion",
+        "category_id": 10,
+        "Price": 459,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Red",
+        "Brand": "Westside"
+    }
+    ,
+    {
+        "id": 25,
+        "product_name": " Girls Jeans",
+        "category": "Fashion",
+        "category_id": 10,
+        "Price": 1549,
+        "Size": "Medium,x,xl,xxl",
+        "Image": "",
+        "Color": "Black",
+        "Brand": "Westside"
+    }
+]
